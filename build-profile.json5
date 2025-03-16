@@ -26,13 +26,13 @@
         "name": "default",
         "type": "HarmonyOS",
         "material": {
-          "certpath": "/Users/lidary/.ohos/config/default_HMarkdown_PmNqaQ6hU--P9Ct2v_YqYJkmELtFk9llulK7-lfNQ24=.cer",
-          "storePassword": "0000001A8D8AA497B0B32908A0F79645032FF7E8460E52AA251651EC56787A6BD183D9C6CE5828B80C9B",
+          "certpath": "C:\\Users\\hehey\\.ohos\\config\\default_HMarkdown_ldoM4aCNkOxsbS2tfOhmJJ-lFmYHt-NfrNnHu1m6rQU=.cer",
+          "storePassword": "0000001BA352ADCE798CF14C66BF0949F7292A43E1FA22489B42A35CE86D710900E33E86002F548C52C155",
           "keyAlias": "debugKey",
-          "keyPassword": "0000001AF01A57DE9E03DA3E9B66BB260844CF79DD177F255750D69EF5F6B4DF5871874EF1B4687282B8",
-          "profile": "/Users/lidary/.ohos/config/default_HMarkdown_PmNqaQ6hU--P9Ct2v_YqYJkmELtFk9llulK7-lfNQ24=.p7b",
+          "keyPassword": "0000001BDEF0F18C6DD879BEEA3849ED1F8C5EB3DCEA8268473894EEEC5649A2A2CC3726F82D270C993DEE",
+          "profile": "C:\\Users\\hehey\\.ohos\\config\\default_HMarkdown_ldoM4aCNkOxsbS2tfOhmJJ-lFmYHt-NfrNnHu1m6rQU=.p7b",
           "signAlg": "SHA256withECDSA",
-          "storeFile": "/Users/lidary/.ohos/config/default_HMarkdown_PmNqaQ6hU--P9Ct2v_YqYJkmELtFk9llulK7-lfNQ24=.p12"
+          "storeFile": "C:\\Users\\hehey\\.ohos\\config\\default_HMarkdown_ldoM4aCNkOxsbS2tfOhmJJ-lFmYHt-NfrNnHu1m6rQU=.p12"
         }
       }
     ]
